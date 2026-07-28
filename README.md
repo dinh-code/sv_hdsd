@@ -1,2 +1,1 @@
-# sv_hdsd
-Nha khoa SV - trang hướng dẫn sử dụng
+Nha khoa SV - hướng dẫn sử dụng
